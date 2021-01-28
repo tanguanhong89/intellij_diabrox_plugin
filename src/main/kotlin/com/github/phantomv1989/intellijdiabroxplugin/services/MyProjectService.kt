@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.phantomv1989.intellijdiabroxplugin.services
 
+import com.github.phantomv1989.intellijdiabroxplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
